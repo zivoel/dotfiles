@@ -1,0 +1,3 @@
+configuration {
+	theme: "~/.config/rofi/my_theme.rasi";
+}
