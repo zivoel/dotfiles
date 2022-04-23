@@ -43,7 +43,7 @@ Plug 'sheerun/vim-polyglot'
 Plug 'nvim-treesitter/nvim-treesitter'
 
 " colors
-Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase' } 
+"Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase' } 
 
 " finder
 Plug 'liuchengxu/vim-clap'
